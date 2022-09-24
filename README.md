@@ -9,6 +9,7 @@ Type "r" to choose Rock, "p" to choose Paper, "s" to choose Scissors, or "e" to 
 Live demo: https://replit.com/@Murtadoc/RockPaperScissors?v=1
 
 Screenshot:
+
 ![image](https://user-images.githubusercontent.com/108568451/192091222-0ed13b8d-a7f3-4d24-956f-5f289a1b87c5.png)
 
 Source code:
